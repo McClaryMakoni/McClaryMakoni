@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @McClaryMakoni
-- 👀 I’m interested in learning everything software development from whoever is willing to teach and or wherever there is material to learn.
-- 🌱 I’m currently learning everything regarding software Development using Python as my main  programming language.
-- 💞️ I’m looking to collaborate on open source projects, both web and backend applications.
+- I am an aspiring Data Scientist, who is currently a Data Analyst and Python Develop
+- 👀 I’m interested in learning everything regarding Python programming and Data Science from whoever is willing to teach and collaborate.
+- 🌱 I’m currently learning Data Analytics using Python as my main  programming language.
+- 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me @SteveMcClary3 on X.
 
 <!---
