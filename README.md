@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @McClaryMakoni
-- I am an aspiring Data Scientist, who is currently a Data Analyst and Python Develop
+- I am an aspiring Data Scientist, who is currently a Data Analyst and Python Developer.
 - 👀 I’m interested in learning everything regarding Python programming and Data Science from whoever is willing to teach and collaborate.
 - 🌱 I’m currently learning Data Analytics using Python as my main  programming language.
 - 💞️ I’m looking to collaborate on open source projects 
