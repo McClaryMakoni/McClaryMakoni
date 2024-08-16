@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @McClaryMakoni
-- I am an aspiring Data Scientist, who is currently a Data Analyst and Python Developer.
-- 👀 I’m interested in learning everything regarding Python programming and Data Science from whoever is willing to teach and collaborate.
-- 🌱 I’m currently learning Data Analytics using Python as my main  programming language.
-- 💞️ I’m looking to collaborate on open source projects 
-- 📫 How to reach me @SteveMcClary3 on X.
+- I am an aspiring Data Scientist, currently working as a Data Analyst and Python Developer.
+- 👀 I’m passionate about learning all aspects of Python programming and Data Science, and I’m eager to collaborate and share knowledge with others.
+- 🌱 I’m currently focused on mastering Data Analytics, with Python as my primary programming language.
+- 💞️ I’m excited to collaborate on open source projects and contribute to the community.
+- 📫 You can reach me on X @SteveMcClary3.
 
 <!---
 McClaryMakoni/McClaryMakoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
